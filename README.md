@@ -10,17 +10,19 @@ To use this project, follow these simple steps:
    ```bash
    git clone https://github.com/stronvn/Recten.git
 
-Navigate into the project directory:
+2. Navigate into the project directory:
+   ```bash
     cd Recten
 
 
-Install dependencies using npm:
-        npm install
+3.  Install dependencies using npm:
+    ```bash
+    npm install
 
 
-Running the App
-Once you've installed the dependencies, you can run the app using the following command:
-            npm start
+## Running the App
+## Once you've installed the dependencies, you can run the app using the following command:
+    npm start
 
 
 This will start the development server, and you can view the app in your browser at http://localhost:3000.
